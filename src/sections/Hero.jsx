@@ -18,7 +18,7 @@ const Hero = () => {
 							<a className="button button-secondary" href="#contact">Start a conversation</a>
 						</div>
 						<div className="hero-socials">
-							<a href="https://www.linkedin.com/in/Nirav" target="_blank" rel="noreferrer" aria-label="View Nirav on LinkedIn">LinkedIn</a>
+							<a href="https://www.linkedin.com/in/nirav-acharya-5a280a395?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank" rel="noreferrer" aria-label="View Nirav on LinkedIn">LinkedIn</a>
 							<a href="https://github.com/Nirav1402" target="_blank" rel="noreferrer" aria-label="View Nirav on GitHub">GitHub</a>
 							<a href="https://wa.me/918140944547?text=Hi%20Nirav%2C%20I%20would%20like%20to%20discuss%20a%20freelance%20project." target="_blank" rel="noreferrer">WhatsApp</a>
 							<a href="mailto:niravacharya1402@gmail.com">Email</a>
