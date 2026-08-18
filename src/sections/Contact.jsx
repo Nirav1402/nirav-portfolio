@@ -9,7 +9,7 @@ const Contact = () => (
 				<div className="contact-links">
 					<a href="mailto:niravacharya1402@gmail.com?subject=Freelance%20project%20inquiry"><span>Email</span>niravacharya1402@gmail.com</a>
 					<a href="https://wa.me/918140944547?text=Hi%20Nirav%2C%20I%20would%20like%20to%20discuss%20a%20freelance%20project." target="_blank" rel="noreferrer"><span>WhatsApp</span>Message me directly</a>
-					<a href="hhttps://www.linkedin.com/in/nirav-acharya-5a280a395?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank" rel="noreferrer"><span>LinkedIn</span>View my profile</a>
+					<a href="https://www.linkedin.com/in/nirav-acharya-5a280a395" target="_blank" rel="noreferrer"><span>LinkedIn</span>View my profile</a>
 					<a href="https://github.com/Nirav1402" target="_blank" rel="noreferrer"><span>GitHub</span>View my repositories</a>
 					<a href="tel:+918140944547"><span>Phone</span>+91 81409 44547</a>
 				</div>
